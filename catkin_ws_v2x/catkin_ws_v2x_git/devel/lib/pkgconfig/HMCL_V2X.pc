@@ -1,0 +1,8 @@
+prefix=/home/hmcl/catkin_ws_v2x/devel
+
+Name: HMCL_V2X
+Description: Description of HMCL_V2X
+Version: 0.0.0
+Cflags: -I/home/hmcl/catkin_ws_v2x/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

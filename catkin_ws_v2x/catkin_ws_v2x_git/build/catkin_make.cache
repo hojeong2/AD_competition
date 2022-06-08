@@ -1,0 +1,2 @@
+HMCL_V2X
+-DCATKIN_DEVEL_PREFIX=/home/hmcl/catkin_ws_v2x/devel -DCMAKE_INSTALL_PREFIX=/home/hmcl/catkin_ws_v2x/install -G Unix Makefiles
