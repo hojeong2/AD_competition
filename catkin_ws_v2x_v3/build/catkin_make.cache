@@ -1,0 +1,2 @@
+HMCL_V2X
+-DCATKIN_DEVEL_PREFIX=/home/pathcmd/Desktop/Git/AD/catkin_ws_v2x_v2/devel -DCMAKE_INSTALL_PREFIX=/home/pathcmd/Desktop/Git/AD/catkin_ws_v2x_v2/install -G Unix Makefiles
