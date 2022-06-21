@@ -1,0 +1,8 @@
+prefix=/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/devel
+
+Name: HMCL_V2X
+Description: Description of HMCL_V2X
+Version: 0.0.0
+Cflags: -I/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

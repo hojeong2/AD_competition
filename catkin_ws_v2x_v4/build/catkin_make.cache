@@ -1,0 +1,2 @@
+HMCL_V2X
+-DCATKIN_DEVEL_PREFIX=/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/devel -DCMAKE_INSTALL_PREFIX=/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/install -G Unix Makefiles

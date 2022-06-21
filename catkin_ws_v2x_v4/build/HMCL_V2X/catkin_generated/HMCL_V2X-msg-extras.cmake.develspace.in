@@ -1,0 +1,2 @@
+set(HMCL_V2X_MESSAGE_FILES "/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/src/HMCL_V2X/msg/HMCL_MAP.msg;/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/src/HMCL_V2X/msg/HMCL_MAPdata.msg;/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/src/HMCL_V2X/msg/HMCL_SPAT.msg;/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/src/HMCL_V2X/msg/HMCL_SPATdata.msg;/home/choi/Desktop/AD_competition/catkin_ws_v2x_v3/src/HMCL_V2X/msg/HMCL_SPAT_name.msg")
+set(HMCL_V2X_SERVICE_FILES "")
